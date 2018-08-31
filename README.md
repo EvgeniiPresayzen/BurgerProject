@@ -7,12 +7,12 @@
 3. Redux v4.0.0
 4. webpack v3.8.1
 5. axios v0.18.0
-***See the rest in package.json*
+6. See the rest in package.json
 ***
 > Setting up the application:
 1. Copy the project from the repository:
-*** git clone http:// ***
+'git clone http://'
 2. Install node-modules:
-*** npm install ***
+'npm install'
 3. Start project:
-*** npm start ***
+'npm start'
